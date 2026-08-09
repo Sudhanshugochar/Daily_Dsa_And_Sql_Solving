@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sudhanshugochar/Daily_Dsa_Solving/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Sudhanshugochar/Daily_Dsa_And_Sql_Solving/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,4 +14,8 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Sudhanshugochar/Daily_Dsa_Solving/tree/master/0197-rising-temperature) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Sudhanshugochar/Daily_Dsa_And_Sql_Solving/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
