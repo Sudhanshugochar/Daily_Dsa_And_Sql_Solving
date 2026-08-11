@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sudhanshugochar/Daily_Dsa_And_Sql_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Sudhanshugochar/Daily_Dsa_And_Sql_Solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sudhanshugochar/Daily_Dsa_And_Sql_Solving/tree/master/0066-plus-one) |
+| [0414-third-maximum-number](https://github.com/Sudhanshugochar/Daily_Dsa_And_Sql_Solving/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sudhanshugochar/Daily_Dsa_And_Sql_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/Sudhanshugochar/Daily_Dsa_And_Sql_Solving/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
