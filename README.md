@@ -14,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sudhanshugochar/Daily_Dsa_Solving/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Sudhanshugochar/Daily_Dsa_And_Sql_Solving/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Sudhanshugochar/Daily_Dsa_And_Sql_Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sudhanshugochar/Daily_Dsa_And_Sql_Solving/tree/master/0387-first-unique-character-in-a-string) |
 ## Database
 |  |
@@ -45,6 +46,7 @@
 | [0125-valid-palindrome](https://github.com/Sudhanshugochar/Daily_Dsa_And_Sql_Solving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sudhanshugochar/Daily_Dsa_And_Sql_Solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sudhanshugochar/Daily_Dsa_And_Sql_Solving/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Sudhanshugochar/Daily_Dsa_And_Sql_Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sudhanshugochar/Daily_Dsa_And_Sql_Solving/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -53,5 +55,6 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Sudhanshugochar/Daily_Dsa_And_Sql_Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sudhanshugochar/Daily_Dsa_And_Sql_Solving/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
