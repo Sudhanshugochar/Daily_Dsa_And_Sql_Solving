@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Sudhanshugochar/Daily_Dsa_Solving/tree/master/0197-rising-temperature) |
+| [1280-students-and-examinations](https://github.com/Sudhanshugochar/Daily_Dsa_And_Sql_Solving/tree/master/1280-students-and-examinations) |
 ## Math
 |  |
 | ------- |
